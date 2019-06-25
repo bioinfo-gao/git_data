@@ -5,3 +5,4 @@ This is in dev branch
 This is in the master branch
 Now testing the new feature1 branch quick and simple
 THIS MANUAL FIXED ONE
+this is test of feature2 for git log --graph
