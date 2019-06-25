@@ -6,3 +6,5 @@ This is in the master branch
 Now testing the new feature1 branch quick and simple
 THIS MANUAL FIXED ONE
 Now test in master branch again
+this is test of feature2 for git log --graph
+
