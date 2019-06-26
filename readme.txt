@@ -8,3 +8,4 @@ THIS MANUAL FIXED ONE
 Now test in master branch again
 this is test of feature2 for git log --graph
 THE NEW DEV branch
+A line I wrote on my local computer
