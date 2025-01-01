@@ -24,4 +24,6 @@ origin  https://github.com/bioinfo-gao/git_data (push)
 upstream        https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.git (fetch)
 upstream        https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.git (push)
 
+git remote rm upstream
+
 git checkout -b kwc
