@@ -13,3 +13,15 @@ git push -u origin main
 
 git merge
 
+##### 
+(base) PS C:\Users\zhen-\Documents\Code> git remote -v
+origin  https://github.com/bioinfo-gao/git_data (fetch)
+origin  https://github.com/bioinfo-gao/git_data (push)
+(base) PS C:\Users\zhen-\Documents\Code> git remote add upstream https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.git
+(base) PS C:\Users\zhen-\Documents\Code> git remote -v                                                            
+origin  https://github.com/bioinfo-gao/git_data (fetch)
+origin  https://github.com/bioinfo-gao/git_data (push)
+upstream        https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.git (fetch)
+upstream        https://github.com/bioinformatics-gao/CASE-BBB-prediction-code.git (push)
+
+git checkout -b kwc
