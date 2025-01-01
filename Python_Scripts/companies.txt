@@ -1,0 +1,8 @@
+Google
+Microsoft
+AMD
+Apple
+Meta
+Amazon
+NVIDA
+Tesla

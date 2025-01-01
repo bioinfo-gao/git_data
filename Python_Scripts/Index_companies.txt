@@ -1,0 +1,16 @@
+1 Google
+2 Microsoft
+3 AMD
+4 Apple
+5 Meta
+6 Amazon
+7 NVIDA
+8 Tesla
+1 Google
+2 Microsoft
+3 AMD
+4 Apple
+5 Meta
+6 Amazon
+7 NVIDA
+8 Tesla

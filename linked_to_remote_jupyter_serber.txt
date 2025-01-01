@@ -1,0 +1,11 @@
+ssh -L 8080:localhost:8080 <REMOTE_USER>@<REMOTE_HOST>
+ssh -L 8080:localhost:8080 gao@192.168.1.189
+ssh -L 6868:localhost:8080 gao@192.168.1.189
+
+ssh -NfL localhost:8080:localhost:8080 gao@192.168.1.189
+
+jupyter notebook --ip 192.168.1.189 --port 8080
+jupyter notebook --ip 192.168.1.189 --port 8080
+
+
+jupyter lab no
